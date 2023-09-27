@@ -1,0 +1,14 @@
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\bin\Debug\net6.0\Tugas Praktikum PBO.exe
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\bin\Debug\net6.0\Tugas Praktikum PBO.deps.json
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\bin\Debug\net6.0\Tugas Praktikum PBO.runtimeconfig.json
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\bin\Debug\net6.0\Tugas Praktikum PBO.dll
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\bin\Debug\net6.0\Tugas Praktikum PBO.pdb
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\Tugas Praktikum PBO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\Tugas Praktikum PBO.AssemblyInfoInputs.cache
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\Tugas Praktikum PBO.AssemblyInfo.cs
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\Tugas Praktikum PBO.csproj.CoreCompileInputs.cache
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\Tugas Praktikum PBO.dll
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\refint\Tugas Praktikum PBO.dll
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\Tugas Praktikum PBO.pdb
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\Tugas Praktikum PBO.genruntimeconfig.cache
+E:\Semester 3\Pemrograman Berorientasi Objek\Tugas Praktikum PBO\Tugas Praktikum PBO\obj\Debug\net6.0\ref\Tugas Praktikum PBO.dll
